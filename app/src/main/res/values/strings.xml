@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Blocknot 2.0</string>
+    <string name="create_btn">Создать файл</string>
+    <string name="read_btn">Открыть файл</string>
+    <string name="encoding_menu">Выбрать кодировку</string>
+    <string name="save_menu">Сохранить файл</string>
+    <string name="create_file_btn">Создать файл здесь</string>
+    <string name="file_dialog_label">Создать файл здесь</string>
+</resources>
